@@ -39,7 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+<img src='https://github.com/AbdulBasee/SimpleTweets/blob/master/twitterappvideo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+![]()
 
 
 ## Reflection Questions
