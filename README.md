@@ -6,7 +6,7 @@ Submitted by: **AbdulBaseer Mahmood**
 
 Time spent: **30** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/spot-pineapple-sandpaper?p...)
 
 ## Required Functionality
 
